@@ -1,4 +1,4 @@
-# ChatWithBot
+# TestWithPython
 
 Hello! My name is Cold, I am second year at Rochester Insitute of Rochester which is I am majoring in Appiled Computer in Studies.  I'm still pretty new to Python and programming in general, so I’m exploring things by building this simple chatbot project. The idea is to create a friendly program called RoboPal that chats with the user by asking a few fun questions.
 
